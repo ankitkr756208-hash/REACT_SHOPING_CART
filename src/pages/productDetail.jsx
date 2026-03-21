@@ -35,7 +35,7 @@ const ProductDetail = () => {
             <img
               src={product?.image}
               alt={product?.name}
-              className="w-[400px] h-[400px] object-cover rounded-2xl shadow-2xl shadow-gray-950/50 border-4 border-gray-800"
+              className="w-400px h-400px object-cover rounded-2xl shadow-2xl shadow-gray-950/50 border-4 border-gray-800"
             />
           </div>
 
