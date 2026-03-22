@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import SearchFilter from "../components/SearchFilter";
-import CategoryFilter from "../components/CategoryFilter";
+import CategoryFilter from "../components/categoryFilter";
 import ProductCard from "../components/ProductCard";
 
 import { useCart } from "../context/CartContext";
